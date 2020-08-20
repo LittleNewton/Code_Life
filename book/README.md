@@ -28,68 +28,68 @@ P.S. URL 里的教材大多数是经典英文教材的`中译本`，由于是扫
 
 ### 2.1 数学基础
 
-- [Discrete Mathematics and Its Applications](https://www.jianguoyun.com/p/De62RiwQw8vpBxjW778C) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Discrete Mathematics and Its Applications](https://cloud.189.cn/t/7FVVBzyY7Zry) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：**离散数学**笼统地介绍了许多与计算机相关的数学领域，离散数学并不是「连续数学」即分析学的对立面，而是一个大杂烩，里面什么都有，排序、图论、自动机理论、编码、逻辑等等都被囊括其中。
-  - **该书中文版**：[《离散数学及其应用》](https://www.jianguoyun.com/p/Db5xgJ0Qw8vpBxjU9b8C) 【`OCR` | `带书签` | `高清扫描`】
+  - **该书中文版**：[《离散数学及其应用》](https://cloud.189.cn/t/yUjaAjMNnqIf) 【`OCR` | `带书签` | `高清扫描`】
 
-- [Operations Research: Applications And Algorithms](https://www.jianguoyun.com/p/DV4BcecQw8vpBxja8b8C) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Operations Research: Applications And Algorithms](https://cloud.189.cn/t/BR7FJvymEzIb) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：运筹学是一个涉及过程优化的学问，在数学里是一个大的分支，网络流问题是该领域的研究核心，因为诸如指派、线性规划、整数规划、零一规划、拓扑图问题等，都可以全部或者部分地归为网络流问题。这个领域的问题以及结论非常多，建议非此专业的新手，把这门课当作算法课的补充与延伸，不要过于深入。
   - **该书中文版**：**无中文版**
 
-- [Computational Complexity: A Modern Approach](https://www.jianguoyun.com/p/DURROtYQw8vpBxicyqID) 【`英文原版` | `无书签` | `English`】
+- [Computational Complexity: A Modern Approach](https://cloud.189.cn/t/mY7RrqAf6RVf) 【`英文原版` | `无书签` | `English`】
   - **简介**：可计算理论、计算复杂性理论应该是现代计算机的核心思想，这是阿兰·图灵和丘奇的开创性理论及拓展，学习本门课需要比较强的数学基础，但是这门课不一定是入门者必学的课，但是学了这门课之后，你会对计算机的原理将有更深刻的认视，比如 CPU 为什么需要寄存器，为什么有些问题是不可计算的，为什么计算安全性也能用于实际。由于本门课一般是研究生课程，而且实际应用中的作用不明显，所以不把这门课放在数学基础篇的开头。这本书的作者是著名的计算科学专家阿罗拉。
-  - **该书中文版**：[《计算复杂性：现代方法》](https://www.jianguoyun.com/p/DZ4dq8EQw8vpBxi0yqID)
+  - **该书中文版**：[《计算复杂性：现代方法》](https://cloud.189.cn/t/FnYZBnmANN3m)
 
 ### 2.2 计算机基础
 
-- [Computer Systems: A Programmer's Perspective](https://www.jianguoyun.com/p/DZNtLvUQw8vpBxjq9b8C) 【`非英文原版` | `彩色版` | `带书签` | `English`】
+- [Computer Systems: A Programmer's Perspective](https://cloud.189.cn/t/RfA3uaauEjim) 【`非英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**： 这本书简称 `CSAPP`，是所有入行计算机的人必看的一本「**内功心法**」，也是名校卡耐基·梅隆大学的计算机专业本科生基础教程，常看常新，海内外享誉无数。这本英文彩色版有点问题，不是原版，建议看中文版，对照英文。
-  - **该书中文版**：[《深入理解计算机系统》](https://www.jianguoyun.com/p/Db1h9VEQw8vpBxiKu78C)【`OCR` ｜ `带书签` | `高清扫描` | `彩色版`】
+  - **该书中文版**：[《深入理解计算机系统》](https://cloud.189.cn/t/iEn2MfQZVvMv)【`OCR` ｜ `带书签` | `高清扫描` | `彩色版`】
 
-- [Computer Networking: A Top-Down Approach](https://www.jianguoyun.com/p/DUCtZB4Qw8vpBxja9b8C) 【`英文扫描版` | `彩色版` | `带凌乱书签` | `English`】
+- [Computer Networking: A Top-Down Approach](https://cloud.189.cn/t/ree6zaBnYje2) 【`英文扫描版` | `彩色版` | `带凌乱书签` | `English`】
   - **简介**：这是计算机网络经典教材，采用自顶向下方法写作，适合大多数人。由于这本书还没有开放授权，所以只能找到一个不太清楚的 PDF 英文版，不过该书的中文版很清楚，也有完美书签。另外，该书的[第六版](https://www.jianguoyun.com/p/DZDtkw0Qw8vpBxjd9b8C)已经开放下载，是英文原版，不介意的新手，可以参阅第六版英文版。
-  - **该书中文版**：[《计算机网络：自顶向下方法》](https://www.jianguoyun.com/p/DdX2BsgQw8vpBxiBu78C) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《计算机网络：自顶向下方法》](https://cloud.189.cn/t/mIzY7rmiUnua) 【`OCR` ｜ `带书签` | `高清扫描`】
 
-- [Computer Networks: A Systems Approach](https://www.jianguoyun.com/p/DRwN8d0Qw8vpBxil1sEC) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Computer Networks: A Systems Approach](https://cloud.189.cn/t/yaaMraEfMrYb) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：该书与《计算机网络：自顶向下方法》齐名，该书的顺序是自底向上，但是没有花费过多的笔墨介绍物理层。该书对于链路层、网络层、高级网络层、端到端（传输层）的介绍非常详细，可以有助于网络学习者快速建立全局观，而且可以避免沉迷在纷繁的应用层协议里无法自拔。推荐初学者先看这本书。
-  - **该书中文版**：[《计算机网络：系统方法》](https://www.jianguoyun.com/p/DUG0DlkQw8vpBxir1sEC) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《计算机网络：系统方法》](https://cloud.189.cn/t/QbAbainaE3Yb) 【`OCR` ｜ `带书签` | `高清扫描`】
 
-- [Compilers: Principles, Techniques, and Tools](https://www.jianguoyun.com/p/DUuGuLwQw8vpBxj_7r8C) 【`OCR` ｜ `带书签` | `高清扫描` | `English`】
+- [Compilers: Principles, Techniques, and Tools](https://cloud.189.cn/t/nEFVzmR36fm2) 【`OCR` ｜ `带书签` | `高清扫描` | `English`】
   - **简介**：这就是大名鼎鼎的编译原理「恐龙书」或「龙书」，另有「虎书」、「鲸书」，但是三本书中唯有龙书最牛
-  - **该书中文版**：[《编译原理》](https://www.jianguoyun.com/p/DYcKwz8Qw8vpBxib778C) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《编译原理》](https://cloud.189.cn/t/MNBzmynaaiAb) 【`OCR` ｜ `带书签` | `高清扫描`】
 
-- [Operating System Concepts](https://www.jianguoyun.com/p/DSZjOi4Qw8vpBxiL58AC) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Operating System Concepts](https://cloud.189.cn/t/muiuAfmMbq2i) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：操作系统有很多的经典教材，这本书是其中之一。但是这本书正如其名字所示，着重于概念，对于一些细节和举例，并不是很详细。
-  - **该书中文版**：[《操作系统概念》](https://www.jianguoyun.com/p/DQmmdU0Qw8vpBxjS9b8C) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《操作系统概念》](https://cloud.189.cn/t/ruqqArzUfqYb) 【`OCR` ｜ `带书签` | `高清扫描`】
 
-- [Modern Operation Systems](https://www.jianguoyun.com/p/DRyL2UoQw8vpBxiny6ID) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Modern Operation Systems](https://cloud.189.cn/t/emIvMr3EBvaq) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：这本书的作者是著名的计算机科学家 Tanenbaum，作者名字一般译为**塔嫩鲍姆**，他也是著名的 MINIX 系统的作者。Linux 内核的作者 Linus Torvalds 在他的自传 Just for Fun 里面这样评价塔嫩鲍姆的另一本书：**每个人都会遇到一本改变自己一生的书吧......而安德鲁•坦尼鲍姆所著的书《操作系统：设计与实现》让我脱胎换骨，达到了一个全新的高度，改变了我的一生。** 这本《现代操作系统》更具现代意义，算是 Linus 高度赞誉的那本书的新时代版本。如果你能把这本书通读一遍，相信你肯定可以升华自己的境界。
-  - **该书中文版**：[《现代操作系统》](https://www.jianguoyun.com/p/DRyL2UoQw8vpBxiny6ID) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《现代操作系统》](https://cloud.189.cn/t/fi2MJjMnUZFb) 【`OCR` ｜ `带书签` | `高清扫描`】
 
 ### 2.3 算法基础
 
-- [Algorithms](https://www.jianguoyun.com/p/DbNnXs4Qw8vpBxii8L8C) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Algorithms](https://cloud.189.cn/t/uIbQRbniQNrm) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：这本就是大名鼎鼎的「**算法4**」，这本书比《算法导论》简单点，但是学起来更顺手。
-  - **该书中文版**：[《算法》](https://www.jianguoyun.com/p/DT3Yb9MQw8vpBxjQ9b8C) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《算法》](https://cloud.189.cn/t/RBvIvurEFNZn) 【`OCR` ｜ `带书签` | `高清扫描`】
 
-- [Introduction to Algorithms](https://www.jianguoyun.com/p/DXRAqz8Qw8vpBxixwcAC) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Introduction to Algorithms](https://cloud.189.cn/t/FbiuIfNZjMFr) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：算法导论是算法学习者必备的一本书，内容深度、广度都很大，是进阶选手、基础比较高的学习者所必看的一本算法书。该书给出的都是伪代码，因此比较适合理解原理。
-  - **该书中文版**：[《算法导论》](https://www.jianguoyun.com/p/DXcUigkQw8vpBxj3wcAC) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《算法导论》](https://cloud.189.cn/t/iuqm2aVvemem) 【`OCR` ｜ `带书签` | `高清扫描`】
 
-- [Computer Organization and Design: The Hardware/Software Interface](https://www.jianguoyun.com/p/DUfuk3kQw8vpBxj2tsAC) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Computer Organization and Design: The Hardware/Software Interface](https://cloud.189.cn/t/J3YR7nmaAzim) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：这本书是**计算机原理**界的大牛 Patterson, David A. 的著作，此人是计算机原理界的大佬，更是计算机体系结构（也就是 CPU 原理）的执牛耳者，著名的《计算机体系结构：量化研究方法》也是他的作品。
-  - **该书中文版**：[《计算机组成与设计：硬件/软件接口》](https://www.jianguoyun.com/p/DbBUjXwQw8vpBxiVt8AC) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《计算机组成与设计：硬件/软件接口》](https://cloud.189.cn/t/INrQ7vnQnaum) 【`OCR` ｜ `带书签` | `高清扫描`】
 
 ### 2.4 UNIX & Linux
 
-- [Linux Kernel Development](https://www.jianguoyun.com/p/DY_KQF4Qw8vpBxil8r8C) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Linux Kernel Development](https://cloud.189.cn/t/JvymayYjiE7n) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：内核开发比较硬，可以参阅。
-  - **该书中文版**：[《Linux 内核设计与实现》](https://www.jianguoyun.com/p/DdSPIZ8Qw8vpBxjNtcAC) 【`OCR` ｜ `带书签` | `次高清扫描`】
+  - **该书中文版**：[《Linux 内核设计与实现》](https://cloud.189.cn/t/y6jENruEbEzm) 【`OCR` ｜ `带书签` | `次高清扫描`】
 
-- [Harley Hahn's Guide to Unix and Linux](https://www.jianguoyun.com/p/Dfhu0twQw8vpBxiI878C) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Harley Hahn's Guide to Unix and Linux](https://cloud.189.cn/t/6jqErmBVvARr) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：这本书的作者哈雷·哈恩以幽默风趣的口吻讲述了 UNIX / Linux 的前世今生以及常用命令的由来、用法，这本书是入门 UNIX 世界的必读之书，假如你是一个对 UNIX 世界一无所知，只会用 Windows 的小白，那么这本书极其适合你。可惜的是，这本书的中文版绝版了；本书中文版被命名为 《Unix & Linux 大学教程》，实在让人摸不着头脑。
-  - **该书中文版**：[《Unix & Linux 大学教程》](https://www.jianguoyun.com/p/DaKwaxkQw8vpBxic878C) 【`OCR` ｜ `带书签` | `次高清扫描`】
+  - **该书中文版**：[《Unix & Linux 大学教程》](https://cloud.189.cn/t/MNZr6jB3QRBv) 【`OCR` ｜ `带书签` | `次高清扫描`】
 
 ## 一键下载上述所有电子书
 
-对于想收集起这些电子书以供日常翻阅的学习者，可单击此[链接](https://www.jianguoyun.com/p/DZFIE0YQw8vpBxi21sEC)下载全部电子书。
+对于想收集起这些电子书以供日常翻阅的学习者，可单击此[链接](https://cloud.189.cn/t/mquiQvIZBRza)下载全部电子书。
